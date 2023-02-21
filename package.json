@@ -1,0 +1,34 @@
+{
+  "name": "alice-2023-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^13.1.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "reflect-metadata": "^0.1.13",
+    "sequelize-typescript": "^2.1.5",
+    "swr": "^2.0.3"
+  },
+  "devDependencies": {
+    "@next/eslint-plugin-next": "^13.1.5",
+    "@types/node": "18.11.18",
+    "@types/react": "18.0.27",
+    "@types/validator": "^13.7.11",
+    "eslint": "^8.32.0",
+    "eslint-plugin-next": "^0.0.0",
+    "mysql2": "^3.0.1",
+    "sequelize": "^6.28.0",
+    "typescript": "4.9.4"
+  }
+}
